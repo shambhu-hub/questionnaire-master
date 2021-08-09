@@ -1,0 +1,29 @@
+[{
+  "question": {
+    "question": "When is republic day?",
+    "questionNumber": 1,
+    "options": {
+      "a": "26 th Jan",
+      "b": "15 th Jan",
+      "c": "15 th Aug",
+      "d": "17 th Feb"
+    }
+  },
+  "ans": "26 th Jan",
+  "opt": "A"
+},
+  {
+    "question": {
+      "question": "When is independence day?",
+      "questionNumber": 2,
+      "options": {
+        "a": "26 th Jan",
+        "b": "15 th Jan",
+        "c": "15 th Aug",
+        "d": "17 th Feb"
+      }
+    },
+    "ans": "15 th Aug",
+    "opt": "C"
+  }
+]
